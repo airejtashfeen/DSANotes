@@ -17,3 +17,12 @@ A binary tree is one which has 0, 1, or 2 children.
 Every node has either 0 or 2 children.
 
 ![Full Binary Tree](../images/fullbinarytree.png)
+
+#### Complete Binary Tree
+
+All levels are completely filled, except (possibly) for the last level.
+
+The last level has all nodes filled from left to right, which means it can't have a node skipped from left.
+
+![Complete Binary Tree](../images/completebinarytree.png)
+
