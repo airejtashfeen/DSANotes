@@ -26,3 +26,9 @@ The last level has all nodes filled from left to right, which means it can't hav
 
 ![Complete Binary Tree](../images/completebinarytree.png)
 
+#### Perfect Binary Tree
+
+All leaf nodes are at the same level.
+
+
+![Perfect Binary Tree](../images/perfectbinarytree.png)
