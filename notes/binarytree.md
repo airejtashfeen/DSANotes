@@ -32,3 +32,22 @@ All leaf nodes are at the same level.
 
 
 ![Perfect Binary Tree](../images/perfectbinarytree.png)
+
+
+#### Balanced Binary Tree
+
+A bit tricky this one, the tree should have a height difference of max 1. The height differece means the left and right subtree's difference this is well demonstrated by the diagrams below.
+
+
+![Balanced Binary Tree](../images/balancedbinarytree.png)
+
+
+
+![Unbalanced Binary Tree](../images/unbalancedbinarytree.png)
+
+
+Think of it from the computer's POV. for eg. you have 2 folders in a directory. If one of the folder has 5 files, the other has 3. The difference would be what? it would be 2. Hence not allowed. 
+
+
+
+![Directory Example](../images/directoryexample.png)
