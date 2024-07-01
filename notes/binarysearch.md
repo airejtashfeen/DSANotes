@@ -30,5 +30,8 @@ Binary search is an efficient algorithm for finding an item from a sorted list o
 
 You can find implementation of the Binary Search Algorithm in the following GitHub links:
 
-- [Binary Search (Leetcode)](https://github.com/airejtashfeen/Leetcode/blob/master/binarysearch.cpp)
+- [Binary Search (Iterative)](https://github.com/airejtashfeen/DSA/blob/master/binarysearchiterative.cpp)
 
+- [Binary Search (Recursive)](https://github.com/airejtashfeen/DSA/blob/master/binarysearchrecursive.cpp)
+
+BOTH OF THESE CAN BE APPLIED TO LEETCODE PROBLEM # 704
