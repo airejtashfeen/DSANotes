@@ -31,4 +31,4 @@ To simulate a stack using a single queue, we need to ensure that the most recent
 
 You can find implementation of Stack using Queue in the following GitHub links:
 
-- [Stack using Queue ](https://github.com/airejtashfeen/DSA/blob/master/stackusingqueue.cpp)
+- [Stack using a single Queue ](https://github.com/airejtashfeen/DSA/blob/master/stackusingqueue.cpp)
