@@ -25,7 +25,7 @@ To simulate a stack using a single queue, we need to ensure that the most recent
 4. **Empty Operation**:
    - Check if the queue is empty.
 
-![Stack using Queue](../images/stackusingqueue.png)
+![Stack using Queue](../images/stackusingsinglequeue.png)
 
 ### Example Solved Solution
 
