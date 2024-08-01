@@ -38,4 +38,4 @@ To find all primes less than or equal to 30:
 
 ## Code Example
 
-[!https://github.com/airejtashfeen/DSA/blob/main/sieve_of_eratosthenes.cpp]
+- [SIEVE OF ERATOSTHENES ](https://github.com/airejtashfeen/DSA/blob/main/sieve_of_eratosthenes.cpp)
